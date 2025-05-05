@@ -1,0 +1,3 @@
+-- Versa Panel 
+-- Client Bridge (QB)
+-- Documentation: Coming Soon
